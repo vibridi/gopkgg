@@ -19,7 +19,7 @@ Run the command and supply the path of the Go module you wish to analyze. For ex
 The command creates a file named `depgraph.svg` in the same directory as where the executable was run. 
 You can open this file with your favorite browser.  
 
-[![autog_graph](https://raw.githubusercontent.com/vibridi/gopkgg/master/example_autog_dep_graph.svg)][autog_dep_graph]
+![autog_graph](https://raw.githubusercontent.com/vibridi/gopkgg/refs/heads/main/example_autog_dep_graph.svg)][autog_dep_graph]
 
 
 ## Authors
